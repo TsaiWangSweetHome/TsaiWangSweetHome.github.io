@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Members
 description: Some description.
-permalink: /about/
+permalink: /members/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
